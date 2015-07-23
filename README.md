@@ -1,6 +1,11 @@
 # [ng-breadcrumbs](http://ianwalter.github.io/ng-breadcrumbs/)
 *A better AngularJS service to help with breadcrumb-style navigation between views.*
 
+## Looking for a new owner/maintainer  
+> Please email me (my email is on my profile page: https://github.com/ianwalter)
+
+---
+
 [![Code Climate](https://codeclimate.com/github/ianwalter/ng-breadcrumbs.png)](https://codeclimate.com/github/ianwalter/ng-breadcrumbs)
 
 [ ![Codeship Status for ianwalter/ng-breadcrumbs](https://codeship.io/projects/31427860-2e0a-0132-95a9-0275b2f5d99e/status)](https://codeship.io/projects/39305)
