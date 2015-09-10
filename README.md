@@ -10,8 +10,6 @@
 
 [ ![Codeship Status for ianwalter/ng-breadcrumbs](https://codeship.io/projects/31427860-2e0a-0132-95a9-0275b2f5d99e/status)](https://codeship.io/projects/39305)
 
-This project was built using [ng-boilerplate](https://github.com/ianwalter/ng-boilerplate)!
-
 #### Step 1: Install ng-breadcrumbs
 
 Install using Bower:
