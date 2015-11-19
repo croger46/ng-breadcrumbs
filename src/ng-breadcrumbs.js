@@ -16,6 +16,7 @@
       function ($rootScope, $location, $route) {
         var BreadcrumbService = {
           breadcrumbs: [],
+          changeHandler:null,
           get: function(options) {
             this.options = options || this.options;
             if (this.options) {
@@ -87,8 +88,14 @@
                   });
                 }
               });
+              if(_this.changeHandler!==null){
+                _this.changeHandler();
+              }
             }
-          }
+          },
+          setChangeHandler:function(func_handler){ 
+            this.changeHandler = func_handler;
+          },
         };
 
         // We want to update breadcrumbs only when a route is actually changed
