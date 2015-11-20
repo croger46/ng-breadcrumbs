@@ -1,6 +1,6 @@
 {
-  "name": "ng-breadcrumbs",
-  "version": "0.4.1",
+  "name": "croger46-ngbreadcrumbs",
+  "version": "0.4.2",
   "description": "A better AngularJS service to help with breadcrumb-style navigation between views",
   "main": "dist/ng-breadcrumbs.min.js",
   "devDependencies": {
@@ -45,5 +45,6 @@
     "route"
   ],
   "author": "Ian Kennington Walter (http://ianvonwalter.com)",
+  "contributors": "C Roger (http://garrgle.net)",
   "license": "MIT"
 }
